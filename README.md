@@ -19,3 +19,7 @@
 > await bot.edit_message_text('Сообщение', chat_id, msg_id,).
 
 Очень удобно через метод 'edit_message_text' изменять текст сообщения при этом влаживать новые кнопки, расширяя функционал и возможности вашего бота. Как то так ...
+
+---
+
+> Мои контакты [Instagram](https://www.instagram.com/just.gray) / [Telegram](https://t.me/justgrayy)
