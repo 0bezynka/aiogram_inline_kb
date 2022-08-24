@@ -6,6 +6,7 @@
 
 Создаем обработчик каманды, в моем случае '/panel' .
 > @dp.message_handler(commands=['panel'])
+
 В ней через метод отправляем сообщение и ввыводи клавиатуру 'reply_markup' которую поместили в функцию 'panel()'
 > await message.reply('Панель управления', reply_markup=panel())
 
